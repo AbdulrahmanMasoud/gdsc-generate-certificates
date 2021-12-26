@@ -1,5 +1,8 @@
 <?php
 
+use App\Http\Controllers\Dashboard\CoursesController;
+use App\Http\Controllers\Dashboard\StudentsController;
+use App\Http\Controllers\Dashboard\TracksController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -15,4 +18,11 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome');
+});
+Route::prefix('dashboard')->group(function () {
+    
+    Route::resource('tracks',TracksController::class);
+    Route::resource('courses',CoursesController::class);
+    Route::resource('students',StudentsController::class);
+
 });

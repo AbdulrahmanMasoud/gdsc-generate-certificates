@@ -3,6 +3,8 @@
 namespace App\Http\Controllers\Dashboard;
 
 use App\Http\Controllers\Controller;
+use App\Http\Requests\Dashboard\Track\TrackRequest;
+use App\Models\Track;
 use Illuminate\Http\Request;
 
 class TracksController extends Controller
@@ -14,7 +16,9 @@ class TracksController extends Controller
      */
     public function index()
     {
-        //
+        $tracks = Track::get();
+        // dd($tracks);
+        return view('dashboard.tracks.index',['tracks'=>$tracks]);
     }
 
     /**
@@ -24,7 +28,8 @@ class TracksController extends Controller
      */
     public function create()
     {
-        //
+        
+        return view('dashboard.tracks.create');
     }
 
     /**
@@ -33,9 +38,10 @@ class TracksController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(TrackRequest $request)
     {
-        //
+        // dd($request);
+        $track = Track::create($request->validated());
     }
 
     /**
@@ -46,7 +52,10 @@ class TracksController extends Controller
      */
     public function show($id)
     {
-        //
+        $track = Track::where('id',$id)->with('courses')->first();
+        // dd($track->courses);
+        return view('dashboard.tracks.show',['track'=>$track]);
+       
     }
 
     /**
@@ -57,7 +66,9 @@ class TracksController extends Controller
      */
     public function edit($id)
     {
-        //
+        $track = Track::where('id',$id)->first();
+        
+        return view('dashboard.tracks.edit',['track'=>$track]);
     }
 
     /**
@@ -67,9 +78,11 @@ class TracksController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, $id)
+    public function update(TrackRequest $request, $id)
     {
-        //
+        $updateTrack = Track::where('id',$id)->update($request->validated());
+        
+        return redirect('dashboard.tracks.index');
     }
 
     /**
@@ -80,6 +93,8 @@ class TracksController extends Controller
      */
     public function destroy($id)
     {
-        //
+        $deleteTrack = Track::where('id',$id)->delete();
+        
+        return redirect('dashboard.tracks.index');
     }
 }

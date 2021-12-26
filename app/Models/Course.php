@@ -9,7 +9,7 @@ class Course extends Model
 {
     use HasFactory;
 
-
+    protected $fillable = ['name','track_id'];
 
     public function track()
     {

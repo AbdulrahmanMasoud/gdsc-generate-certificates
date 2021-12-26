@@ -2,8 +2,10 @@
 
 namespace App\Http\Controllers\Dashboard;
 
-use App\Http\Controllers\Controller;
+use App\Models\Course;
 use Illuminate\Http\Request;
+use App\Http\Controllers\Controller;
+use App\Http\Requests\Dashboard\Course\CourseRequest;
 
 class CoursesController extends Controller
 {
@@ -14,7 +16,9 @@ class CoursesController extends Controller
      */
     public function index()
     {
-        //
+        $courses = Course::with('track')->get();
+        // dd($courses);
+        return view('dashboard.courses.index',['courses'=>$courses]);
     }
 
     /**
@@ -24,7 +28,7 @@ class CoursesController extends Controller
      */
     public function create()
     {
-        //
+        
     }
 
     /**
@@ -33,9 +37,14 @@ class CoursesController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(CourseRequest $request)
     {
-        //
+        // dd($request);
+        $addCourse = Course::create([
+            'name' => $request->name,
+            'track_id' => $request->track_id
+        ]);
+        return redirect('dashboard/courses');
     }
 
     /**
@@ -46,7 +55,9 @@ class CoursesController extends Controller
      */
     public function show($id)
     {
-        //
+        $course = Course::where('id',$id)->with('students')->first();
+        // dd($courses);
+        return view('dashboard.courses.show',['course'=>$course]);
     }
 
     /**
