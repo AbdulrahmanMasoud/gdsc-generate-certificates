@@ -4,6 +4,8 @@ use App\Http\Controllers\Dashboard\CoursesController;
 use App\Http\Controllers\Dashboard\ImportStudentsController;
 use App\Http\Controllers\Dashboard\StudentsController;
 use App\Http\Controllers\Dashboard\TracksController;
+use App\Http\Controllers\Front\GenerateCertificatesControllers;
+use App\Http\Controllers\Front\HomeController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -17,9 +19,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', [HomeController::class,'index'])->name('home');
+Route::get('/cer', [GenerateCertificatesControllers::class,'generate'])->name('generate.Certificat');
 Route::prefix('dashboard')->group(function () {
     
     Route::resource('tracks',TracksController::class);

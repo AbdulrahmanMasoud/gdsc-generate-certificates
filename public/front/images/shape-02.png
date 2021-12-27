@@ -1,0 +1,937 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Page not found &#8211; Bytesed</title>
+<meta name="robots" content="max-image-preview:large">
+<link rel="dns-prefetch" href="//www.google.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Bytesed &raquo; Feed" href="https://bytesed.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Bytesed &raquo; Comments Feed" href="https://bytesed.com/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bytesed.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.2"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="../css/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="betterdocs-fontawesome-frontend-css" href="../css/font-awesome5.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="../css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="edd-styles-css" href="../css/edd.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="owl-carousel-css" href="../css/owl.carousel.min_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="irtech-master-wedocs-style-css" href="../css/wedocs.css" type="text/css" media="all">
+<link rel="stylesheet" id="irtech-master-main-style-css" href="../css/main-style_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="irtech-google-fonts-css" href="//fonts.googleapis.com/css?family=Poppins%3A400%7CPoppins%3A700%7CPoppins%3A600%7CPoppins%3A500" type="text/css" media="all">
+<link rel="stylesheet" id="animate-css" href="../css/animate_2.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap-css" href="../css/bootstrap.min_2.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="../css/font-awesome.min_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="magnific-popup-css" href="../css/magnific-popup_2.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-5-css" href="../css/font-awesome.min_3.css" type="text/css" media="all">
+<link rel="stylesheet" id="default-style-css" href="../css/default-style_1.css" type="text/css" media="all">
+<link rel="stylesheet" id="irtech-main-style-css" href="../css/main-style_2.css" type="text/css" media="all">
+<link rel="stylesheet" id="irtech-responsive-css" href="../css/responsive_2.css" type="text/css" media="all">
+<link rel="stylesheet" id="irtech-style-css" href="../css/style_1.css" type="text/css" media="all">
+<style id="irtech-style-inline-css" type="text/css">
+	.page-content-wrap-{padding-top:100px;padding-bottom:100px;#ffffff	}	.page-content-inner-{#ffffff	}
+	.preloader-wrapper{background-color:#ffffff}.breadcrumb-area{background-image:url() ;background-position:center center;background-repeat:no-repeat;background-size:cover;background-attachment:scroll}.footer-top{padding-top:100px;padding-bottom:65px}.copyright-area{padding-top:20px;padding-bottom:20px}.navbar-area.navbar-default.nav-style-01 .nav-container .navbar-collapse .navbar-nav li a,.navbar-area.navbar-default.nav-style-01 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children:before{color:rgba(255,255,255,0.8)}.navbar-area.navbar-default.nav-style-01,.navbar-area.navbar-default.nav-style-01 .nav-container{background-color:#30373f}.navbar-area.navbar-default.nav-style-01 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li a{background-color:#ffffff;color:#878a95}.navbar-area.navbar-default.nav-style-01 .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li a:hover{background-color:var(--main-color-one);color:#fff}.navbar-area.navbar-default.nav-style-01 .nav-container .navbar-collapse .navbar-nav li a:hover{color:var(--main-color-one)}.widget{border-color:#fafafa !important}.widget .widget-title,.widget_rss ul li a.rsswidget,.widget .recent_post_item li.single-recent-post-item .content .title>a{color:#242424 } .widget ul li a,.widget ul li,.widget p,.widget .table td,.widget .table th,.widget caption,.widget_tag_cloud .tagcloud a,.calendar_wrap table td,.calendar_wrap table tr{color:#777777 }	.footer-top{background-color:#F8F8F9}.widget.footer-widget p,.footer-widget.widget_tag_cloud .tagcloud a,.widget.footer-widget.widget_calendar caption,.widget.footer-widget.widget_calendar th,.widget.footer-widget.widget_calendar td,.footer-widget.widget p,.footer-widget.widget a,.footer-widget.widget,.widget.footer-widget ul li a,.widget.footer-widget ul li{color:#383838}.widget.footer-widget .widget-title,.widget.footer-widget .widget-title a,.footer-widget.widget_rss ul li a.rsswidget,.footer-widget.widget .recent_post_item li.single-recent-post-item .content .title>a{color:#383838}.footer-widget.widget_irtech_about_us .social-icon li a{color:var(--main-color-one) !important}.copyright-area{background-color:#F8F8F9;color:#383838}.error_page_content_area{background-color:#ffffff;padding-top:120px;padding-bottom:120px}.blog-page-content-area{background-color:#ffffff;padding-top:120px;padding-bottom:120px}.blog-details-page{background-color:#ffffff;padding-top:120px;padding-bottom:120px}.archive-page-content-area{background-color:#ffffff;padding-top:120px;padding-bottom:120px}.download-archive-page{background-color:#ffffff;padding-top:120px;padding-bottom:120px}.search-page-content-area{background-color:#ffffff;padding-top:120px;padding-bottom:120px}html,body{font-family:"Poppins",sans-serif}body,p{font-size:16px;line-height:26px;font-weight:400}:root{--body-font:"Poppins",sans-serif}h1,h2,h3,h4,h5,h6{font-family:"Poppins",sans-serif;font-weight:700}:root{--heading-font:"Poppins",sans-serif}:root{--main-color-one:#3A9C48;--main-color-two:#EA6228;--secondary-color:#30373f;--heading-color:#243E63;--paragraph-color:#2B2B2B}
+</style>
+<script type="text/javascript" defer src="../js/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" defer src="../js/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://bytesed.com/wp-json/"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bytesed.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bytesed.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.8.2">
+	<style>
+		.betterdocs-wraper.betterdocs-main-wraper {
+						background-color: #ffffff;		
+																				}
+		.betterdocs-archive-wrap.betterdocs-archive-main {
+			padding-top: 50px;
+			padding-bottom: 50px;
+			padding-left: 0px;
+			padding-right: 0px;
+		}
+		.betterdocs-archive-wrap.betterdocs-archive-main {
+			width: 100%;
+			max-width: 1140px;
+		}
+		.betterdocs-categories-wrap.single-kb.layout-masonry .docs-single-cat-wrap {
+			margin-bottom: 15px;
+		}
+		.betterdocs-categories-wrap.single-kb.layout-flex .docs-single-cat-wrap {
+			margin: 15px; 
+		}
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap .docs-cat-title-wrap { 
+			padding-top: 20px; 
+		}
+
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap .docs-cat-title-wrap, 
+		.betterdocs-archive-main .docs-item-container { 
+			padding-right: 20px;
+			padding-left: 20px;  
+		}
+		.betterdocs-archive-main .docs-item-container { 
+			padding-bottom: 20px; 
+		}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap,
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap.docs-cat-list-2-box {
+			padding-top: 20px; 
+			padding-right: 20px;
+			padding-left: 20px; 
+			padding-bottom: 20px; 
+		}
+        		.betterdocs-categories-wrap.betterdocs-category-box .docs-single-cat-wrap p{
+						color: #566e8b;
+					}
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap,
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap .docs-cat-title-wrap {
+						border-top-left-radius: 5px;
+									border-top-right-radius: 5px;
+					}
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap,
+		.betterdocs-categories-wrap.single-kb .docs-single-cat-wrap .docs-item-container {
+						border-bottom-right-radius: 5px;
+									border-bottom-left-radius: 5px;
+					}
+		.betterdocs-category-list .betterdocs-categories-wrap .docs-single-cat-wrap,
+		.betterdocs-category-box.white-bg .docs-single-cat-wrap,
+		.betterdocs-categories-wrap.white-bg .docs-single-cat-wrap {
+						background-color: #fff;
+					}
+		.betterdocs-category-box.single-kb.ash-bg .docs-single-cat-wrap {
+						background-color: #f8f8fc;
+					}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap:hover,
+		.betterdocs-categories-wrap.single-kb.white-bg .docs-single-cat-wrap.docs-cat-list-2-box:hover {
+						background-color: #fff;
+					}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap img {
+						margin-bottom: 20px;
+					}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap .docs-cat-title,
+		.pro-layout-4.single-kb .docs-cat-list-2-box-content .docs-cat-title {
+						margin-bottom: 15px;
+					}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap p {
+						margin-bottom: 15px;
+					}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap span {
+					}
+		.docs-cat-title img {
+			height: 32px; 
+		}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap img { 
+			height: 80px; 
+		}
+		.single-kb .docs-cat-title-inner .docs-cat-heading,
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap .docs-cat-title,
+		.single-kb .docs-cat-list-2-box .docs-cat-title,
+		.single-kb .docs-cat-list-2-items .docs-cat-title {
+			font-size: 20px;
+		}
+        .single-kb .docs-cat-title-inner .docs-cat-heading {
+			color: #528ffe; 
+		}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap .docs-cat-title,
+		.single-kb .docs-cat-list-2 .docs-cat-title {
+			color: #333333;
+		}
+				.docs-cat-title-inner {
+			border-color: #528ffe; 
+			padding-bottom: 20px;
+		}
+		.docs-cat-title-inner .docs-item-count span {
+			color: #ffffff; 
+			font-size: 15px;
+		}
+		.betterdocs-category-box.single-kb .docs-single-cat-wrap span,
+		.single-kb .docs-cat-list-2-box .title-count span {
+			color: #707070; 
+			font-size: 15px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-cat-title-wrap .docs-item-count span {
+			font-size: 15px;
+		}
+		.betterdocs-categories-wrap .docs-item-count {
+			background-color: #528ffe; 
+		}
+
+		.betterdocs-categories-wrap.single-kb .docs-cat-title-inner span {
+			background-color: rgba(82,143,254,0.44);
+			border-color: #ffffff;
+			border-style: none;
+			width: 30px; 
+			height: 30px;
+			border-top-width: 0px;
+			border-right-width: 0px;
+			border-bottom-width: 0px;
+			border-left-width: 0px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-item-container ul {
+			background-color: rgba(255,255,255,0);
+			padding-top: 0px;
+			padding-bottom: 0px;
+			padding-right: 0px;
+			padding-left: 0px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-item-container {
+			background-color: #ffffff;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-item-container li,
+		.betterdocs-categories-wrap.single-kb .docs-item-container .docs-sub-cat-title,
+        .betterdocs-popular-list.single-kb ul li {
+			margin-top: 10px;
+			margin-right: 10px;
+			margin-left: 10px;
+		}
+        .betterdocs-categories-wrap.single-kb .docs-item-container li,
+        .betterdocs-popular-list.single-kb ul li {
+            margin-bottom: 10px;
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+        }
+		.betterdocs-categories-wrap.single-kb .docs-item-container li svg {
+			fill: #566e8b;
+			font-size: 15px;
+            min-width: 15px;
+		}
+        .betterdocs-popular-list.single-kb ul li svg {
+			font-size: 15px;
+            min-width: 15px;
+		}
+        .betterdocs-popular-list.single-kb ul li svg path {
+			fill: #566e8b;
+		}
+		.betterdocs-categories-wrap.single-kb li a,
+        .betterdocs-popular-list.single-kb ul li a {
+			color: #566e8b;
+			font-size: 15px;
+		}
+				.betterdocs-categories-wrap.single-kb .docs-item-container .docs-sub-cat li a {
+			color: #566e8b;
+		}
+						.betterdocs-categories-wrap.single-kb .docs-item-container .docs-sub-cat li a:hover {
+			color: #566e8b;
+		}
+						.betterdocs-categories-wrap.single-kb .docs-item-container .docs-sub-cat li svg {
+			fill: #566e8b;
+		}
+				.betterdocs-categories-wrap.single-kb li a:hover,
+        .betterdocs-popular-list.single-kb ul li a:hover {
+			color: #566e8b;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-item-container .docs-sub-cat-title svg {
+			fill: #566e8b;
+			font-size: 15px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-sub-cat-title a {
+			color: #566e8b;
+			font-size: 17px;
+		}
+		.betterdocs-categories-wrap.single-kb .docs-sub-cat-title a:hover {
+			color: #566e8b;
+		}
+		.docs-cat-link-btn, .docs-cat-link-btn:visited {
+			background-color: #ffffff;
+			font-size: 16px;
+			color: #528ffe;
+			border-color: #528ffe;
+			border-top-left-radius: 50px;
+			border-top-right-radius: 50px;
+			border-bottom-right-radius: 50px;
+			border-bottom-left-radius: 50px;
+			padding-top: 10px;
+			padding-right: 20px;
+			padding-bottom: 10px;
+			padding-left: 20px;
+			border-width: 1px;
+		}
+
+		.docs-cat-link-btn, .docs-cat-link-btn{
+			border-width: 1px;
+		}
+		.docs-cat-link-btn:hover {
+			background-color: #528ffe;
+			color: #fff;
+			border-color: #528ffe;
+		}
+		.docs-single-cat-wrap .docs-item-container .docs-cat-link-btn {
+			margin-top: 10px;
+			margin-bottom: 10px;
+			margin-left: 20px;
+			margin-right: 20px;
+		}
+		.betterdocs-single-bg .betterdocs-content-area, .betterdocs-single-bg .betterdocs-content-full {
+			background-color: rgba(255,255,255,0);	
+		}
+		.betterdocs-single-wraper .betterdocs-content-area {
+			padding-top: 30px;
+			padding-right: 25px;
+			padding-bottom: 30px;
+			padding-left: 25px;
+		}
+		.betterdocs-single-wraper .betterdocs-content-area .docs-single-main {
+			padding-top: 20px;
+			padding-right: 20px;
+			padding-bottom: 20px;
+			padding-left: 20px;
+		}
+		.betterdocs-single-layout4 .betterdocs-content-full {
+			padding-top: 30px;
+			padding-right: 25px;
+			padding-bottom: 30px;
+			padding-left: 25px;
+		}
+		.betterdocs-single-layout4 .betterdocs-content-full{
+			background-color: rgba(255,255,255,0);	
+		}
+		.betterdocs-single-layout5 .betterdocs-content-full {
+			padding-top: 30px;
+			padding-right: 25px;
+			padding-bottom: 30px;
+			padding-left: 25px;
+		}
+		.betterdocs-single-layout5 .betterdocs-content-full {
+			background-color: rgba(255,255,255,0);	
+		}
+		.betterdocs-single-layout2 .docs-content-full-main .doc-single-content-wrapper {
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+		}
+		.betterdocs-single-layout3 .docs-content-full-main .doc-single-content-wrapper {
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+		}
+		.docs-single-title .betterdocs-entry-title {
+			font-size: 36px;
+			color: #3f5876;
+		}
+		.betterdocs-breadcrumb .betterdocs-breadcrumb-item a {
+			font-size: 16px;
+			color: #566e8b;
+		}
+		.betterdocs-breadcrumb .betterdocs-breadcrumb-list .betterdocs-breadcrumb-item a:hover {
+			color: #566e8b;
+		}
+		.betterdocs-breadcrumb .breadcrumb-delimiter {
+			color: #566e8b;
+		}
+		.betterdocs-breadcrumb-item.current span {
+			font-size: 16px;
+			color: #528fff;
+		}
+		.betterdocs-toc {
+			background-color: #fff;
+			padding-top: 20px;
+			padding-right: 25px;
+			padding-bottom: 20px;
+			padding-left: 20px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			margin-left: 0px;
+		}
+		.betterdocs-entry-content .betterdocs-toc {
+			margin-bottom: 20px;
+		}
+		.sticky-toc-container {
+			width: 320px;
+		}
+		.sticky-toc-container.toc-sticky {
+			z-index: 2;
+			margin-top: 0px;
+		}
+		.betterdocs-toc > .toc-title {
+			color: #3f5876;
+			font-size: 18px;
+		}
+		.betterdocs-entry-content .betterdocs-toc.collapsible-sm .angle-icon {
+			color: #3f5876;
+		}
+		.betterdocs-toc > .toc-list a {
+			color: #566e8b;
+			font-size: 14px;
+			margin-top: 5px;
+			margin-right: 0px;
+			margin-bottom: 5px;
+			margin-left: 0px;
+		}
+		.betterdocs-toc > .toc-list li a:before {
+			font-size: 12px;
+			color: #566e8b;
+		}
+		.betterdocs-toc > .toc-list li:before {
+			padding-top: 5px;
+		}
+		.betterdocs-toc > .toc-list a:hover {
+			color: #528fff;
+		}
+		.feedback-form-link .feedback-form-icon svg, .feedback-form-link .feedback-form-icon img {
+			width: 26px;
+		}
+		.betterdocs-toc > .toc-list a.active,
+        .betterdocs-toc > .toc-list a.active:before {
+			color: #528fff;
+		}
+        .betterdocs-toc > .toc-list a.active:after {
+            background-color: #528fff;
+        }
+		.betterdocs-content {
+			color: #4d4d4d;
+			font-size: 16px;
+		}
+		.betterdocs-social-share .betterdocs-social-share-heading h5 {
+			color: #566e8b;
+		}
+		.betterdocs-entry-footer .feedback-form-link {
+			color: #566e8b;
+			font-size: 15px;
+		}
+		.betterdocs-entry-footer .feedback-update-form .feedback-form-link:hover {
+			color: #566e8b;
+		}
+        .betterdocs-entry-footer .feedback-form .modal-content .feedback-form-title {
+            color: #3f5876;
+            font-size: 21px;
+        }
+		.docs-navigation a {
+			color: #3f5876;
+			font-size: 16px;
+		}
+		.docs-navigation a:hover {
+			color: #3f5876;
+		}
+		.docs-navigation a svg{
+			fill: #5edf8e;
+			min-width: 16px;
+			width: 16px;
+		}
+		.betterdocs-entry-footer .update-date{
+			color: #566e8b;
+			font-size: 14px;
+		}
+		.betterdocs-credit p{
+			color: #201d3a;
+			font-size: 14px;
+		}
+		.betterdocs-credit p a{
+			color: #528fff;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap,
+		.betterdocs-category-wraper .betterdocs-full-sidebar-left {
+			background-color: #ffffff;
+		}
+		.betterdocs-single-layout1 .betterdocs-sidebar-content .betterdocs-categories-wrap {
+						border-top-left-radius: 5px;
+									border-top-right-radius: 5px;
+									border-bottom-right-radius: 5px;
+									border-bottom-left-radius: 5px;
+					}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-single-cat-wrap .docs-cat-title-wrap {
+			background-color: #ffffff;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-cat-title img {
+			height: 24px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-cat-title-inner .docs-cat-heading{
+			color: #3f5876;
+			font-size: 16px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-cat-title-inner .docs-cat-heading:hover {
+			color: #3f5876 !important;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-cat-title-inner .cat-list-arrow-down {
+			color: #3f5876;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-single-cat-wrap .active-title .docs-cat-title-inner .docs-cat-heading,
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .active-title .docs-cat-title-inner .docs-cat-heading,
+		.betterdocs-category-wraper .betterdocs-full-sidebar-left .docs-cat-title-wrap::after {
+			color: #3f5876;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-item-count {
+			background-color: #528ffe;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-item-count span {
+			background-color: rgba(82, 143, 255, 0.2);
+			color: #ffffff;
+			font-size: 12px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap .docs-single-cat-wrap {
+			margin-top: 5px;
+			margin-right: 0px;
+			margin-bottom: 5px;
+			margin-left: 0px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap, .betterdocs-full-sidebar-left .betterdocs-categories-wrap {
+			padding-top: 0px;
+			padding-right: 0px;
+			padding-bottom: 0px;
+			padding-left: 0px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap .docs-single-cat-wrap .docs-cat-title-wrap {
+			padding-top: 10px;
+			padding-right: 15px;
+			padding-bottom: 10px;
+			padding-left: 15px;
+		}
+		.betterdocs-single-layout2 .betterdocs-full-sidebar-left .betterdocs-sidebar-content .betterdocs-categories-wrap .docs-cat-title-inner {
+						background-color: #ffffff;		
+						padding-top: 10px;
+			padding-right: 15px;
+			padding-bottom: 10px;
+			padding-left: 15px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-item-container{
+			background-color: #ffffff;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .docs-single-cat-wrap .docs-cat-title-wrap.active-title{
+			background-color: rgba(90, 148, 255, .1);
+			border-color: #528fff;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap .docs-item-container li {
+			padding-left: 0;
+			margin-top: 10px;
+			margin-right: 10px;
+			margin-bottom: 10px;
+			margin-left: 10px;
+		}
+		.betterdocs-single-layout2 .betterdocs-sidebar-content .betterdocs-categories-wrap .docs-item-container li {
+			margin-right: 0 !important;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap li a {
+			color: #566e8b;
+			font-size: 14px;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap li a:hover {
+			color: #528fff;
+		}
+		.betterdocs-sidebar-content.betterdocs-category-sidebar .betterdocs-categories-wrap li svg {
+			fill: #566e8b;
+			font-size: 14px;
+		}
+        .betterdocs-sidebar-content .betterdocs-categories-wrap li a.active,
+        .betterdocs-sidebar-content .betterdocs-categories-wrap li.sub-list a.active {
+            color: #528fff;
+        }
+		.betterdocs-category-wraper.betterdocs-single-wraper{
+																				}	
+		.betterdocs-category-wraper.betterdocs-single-wraper .docs-listing-main .docs-category-listing{
+						background-color: #ffffff;
+						margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 0px;
+			margin-left: 0px;
+			padding-top: 30px;
+			padding-right: 30px;
+			padding-bottom: 30px;
+			padding-left: 30px;
+			border-radius: 5px;
+		}
+		.betterdocs-category-wraper .docs-category-listing .docs-cat-title .docs-cat-heading {
+			color: #566e8b;
+			font-size: 20px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 20px;
+			margin-left: 0px;
+		}
+		.betterdocs-category-wraper .docs-category-listing .docs-cat-title p {
+			color: #566e8b;
+			font-size: 14px;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 20px;
+			margin-left: 0px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list ul li, 
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat-title {
+			margin-top: 10px;
+			margin-right: 0px;
+			margin-bottom: 10px;
+			margin-left: 0px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list ul li svg {
+			fill: #566e8b;
+			font-size: 16px;
+            min-width: 16px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list ul li a {
+			color: #566e8b;
+			font-size: 14px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list ul li a:hover {
+			color: #528ffe;
+		}
+				.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat li a {
+			color: #566e8b;
+		}
+						.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat li a:hover {
+			color: #566e8b;
+		}
+						.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat li svg {
+			fill: #566e8b;
+		}
+				.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat-title svg {
+			fill: #566e8b;
+			font-size: 15px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat-title a {
+			color: #566e8b;
+			font-size: 17px;
+		}
+		.betterdocs-category-wraper .docs-listing-main .docs-category-listing .docs-list .docs-sub-cat-title a:hover {
+			color: #566e8b;
+		}
+
+		.betterdocs-search-form-wrap{
+						background-color: #f7f7f7;
+																		padding-top: 150px;
+			padding-right: 20px;
+			padding-bottom: 50px;
+			padding-left: 20px;
+			margin-top:0px;
+			margin-right:0px;
+			margin-bottom:0px;
+			margin-left:0px;
+					}
+		.betterdocs-search-heading h2 {
+			line-height: 1.2;
+			font-size: 40px;
+			color: #566e8b;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 20px;
+			margin-left: 0px;
+		}
+		.betterdocs-search-heading h3 {
+			line-height: 1.2;
+			font-size: 16px;
+			color: #566e8b;
+			margin-top: 0px;
+			margin-right: 0px;
+			margin-bottom: 20px;
+			margin-left: 0px;
+		}
+		.betterdocs-searchform {
+			background-color: #ffffff;
+			border-radius: 8px;
+			padding-top: 22px;
+			padding-right: 15px;
+			padding-bottom: 22px;
+			padding-left: 15px;
+		}
+		.betterdocs-searchform .betterdocs-search-field {
+			font-size: 16px;
+			color: #595959;
+		}	
+		.betterdocs-searchform .betterdocs-search-field:focus{
+			color: #595959;
+		}
+		.betterdocs-searchform .betterdocs-search-field::placeholder{
+			color: #595959;
+		}
+		.betterdocs-searchform svg.docs-search-icon {
+			fill: #444b54;
+			height: 30px;
+		}
+		.docs-search-close path.close-line {
+			fill: #ff697b;	
+		}
+		.docs-search-close path.close-border {
+			fill: #444b54;	
+		}
+		.docs-search-loader {
+			stroke: #444b54;	
+		}
+		.betterdocs-searchform svg.docs-search-icon:hover {
+			fill: #444b54;
+		}
+		.betterdocs-live-search .docs-search-result {
+			width: 100%;
+			max-width: 800px;
+			background-color: #fff;
+			border-color: #f1f1f1;
+		}
+		.betterdocs-search-result-wrap::before {
+			border-color: transparent transparent #fff;
+		}
+		.betterdocs-live-search .docs-search-result li {
+			border-color: #f5f5f5;
+		}
+		.betterdocs-live-search .docs-search-result li a {
+			font-size: 16px;
+			padding-top: 10px;
+			padding-right: 10px;
+			padding-bottom: 10px;
+			padding-left: 10px;
+		}
+		.betterdocs-live-search .docs-search-result li a .betterdocs-search-title {
+			color: #444444;
+		}
+
+		.betterdocs-live-search .docs-search-result li a .betterdocs-search-category{
+			color: #444444;
+		}
+
+		.betterdocs-live-search .docs-search-result li:hover {
+			background-color: #f5f5f5;
+		}
+		.betterdocs-live-search .docs-search-result li a span:hover {
+			color: #444444;
+		}
+		.betterdocs-category-box.pro-layout-3 .docs-single-cat-wrap img,
+		.docs-cat-list-2-box img {
+			margin-right: 20px;
+		}
+		.betterdocs-wraper.betterdocs-category-list-2 .betterdocs-search-form-wrap {
+			padding-bottom: 130px;
+		}
+	</style>
+	<!--<script>
+		jQuery(document).ready(function() {
+			var masonryGrid = jQuery(".betterdocs-categories-wrap.layout-masonry");
+			var columnPerGrid = jQuery(".betterdocs-categories-wrap.layout-masonry").attr('data-column');
+			var masonryItem = jQuery(".betterdocs-categories-wrap.layout-masonry .docs-single-cat-wrap");
+			var doc_page_column_space = ;
+			var total_margin = columnPerGrid * doc_page_column_space;
+			if (masonryGrid.length) {
+				masonryItem.css("width", "calc((100% - "+total_margin+"px) / "+parseInt(columnPerGrid)+")");
+				masonryGrid.masonry({
+					itemSelector: ".docs-single-cat-wrap",
+					percentPosition: true,
+					gutter: doc_page_column_space
+				});
+			}
+		});
+	</script>-->
+    <meta name="generator" content="Easy Digital Downloads v2.11.3.1">
+<style type="text/css">.breadcrumb-area{background-image:url(https://bytesed.com/wp-content/uploads/2021/09/Mask-Group-2.png)!important;}</style><link rel="icon" href="https://bytesed.com/wp-content/uploads/2021/09/cropped-1-32x32.png" sizes="32x32">
+<link rel="icon" href="https://bytesed.com/wp-content/uploads/2021/09/cropped-1-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://bytesed.com/wp-content/uploads/2021/09/cropped-1-180x180.png">
+<meta name="msapplication-TileImage" content="https://bytesed.com/wp-content/uploads/2021/09/cropped-1-270x270.png">
+		<style type="text/css" id="wp-custom-css">
+			.navbar-area .nav-container .navbar-collapse .navbar-nav li.menu-item-has-children .sub-menu li a{
+	white-space:none !important;
+}		</style>
+		</head>
+
+<body class="error404 elementor-default elementor-kit-46">
+
+			<div class="back-to-top">
+				<span class="back-top"><i class="fa fa-angle-up"></i></span>
+			</div>
+						<div class="preloader" id="preloader">
+				<div class="preloader-inner">
+                    <div class="gooey">
+                        <span class="dot"></span>
+                        <div class="dots">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </div>
+                    </div>
+				</div>
+			</div>
+			<div id="page" class="site">
+    <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+    <header id="masthead" class="site-header">
+    <div class="header-style-02">
+	<div class="topbar-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="topbar-inner">
+						<div class="left-content">
+							<ul class="info-item">
+                                <li><a href="mailto:contact@bytesed.com"><i class="far fa-envelope"></i> contact@bytesed.com</a></li><li><a href="skype:live:dvrobin4?chat"><i class="fab fa-skype"></i> dvrobin4</a></li>							</ul>
+						</div>
+						<div class="right-content">
+							<ul class="social-item">
+								<li><a href="https://www.facebook.com/bytesed"><i class="fab fa-facebook-f"></i></a></li><li><a href="#"><i class="fab fa-twitter-square"></i></a></li><li><a href="https://www.youtube.com/channel/UCv5Bdj96hDwkwnrVrQFaPPQ"><i class="fab fa-youtube"></i></a></li>							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<nav class="navbar navbar-area navbar-expand-lg nav-style-02">
+		<div class="container nav-container">
+			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#irtech_main_menu" aria-expanded="false" aria-label="Toggle navigation">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div class="responsive-mobile-menu">
+				<div class="logo-wrapper">
+					<a class="site-logo" href="https://bytesed.com"><img src="https://bytesed.com/wp-content/uploads/2021/09/1.png" alt></a>				</div>
+			</div>
+				<div id="irtech_main_menu" class="collapse navbar-collapse"><ul id="menu-primary-menu" class="navbar-nav"><li id="menu-item-17" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-17"><a href="https://bytesed.com/">Home</a></li>
+<li id="menu-item-446" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-446"><a href="https://bytesed.com/our-products/">Products</a>
+<ul class="sub-menu">
+	<li id="menu-item-510" class="menu-item menu-item-type-taxonomy menu-item-object-download_category menu-item-510"><a href="https://bytesed.com/our-products/category/laravel-script/">Laravel Script</a></li>
+	<li id="menu-item-444" class="menu-item menu-item-type-taxonomy menu-item-object-download_category menu-item-444"><a href="https://bytesed.com/our-products/category/wordpress-theme/">WordPress Theme</a></li>
+	<li id="menu-item-445" class="menu-item menu-item-type-taxonomy menu-item-object-download_category menu-item-445"><a href="https://bytesed.com/our-products/category/react-template/">React Template</a></li>
+	<li id="menu-item-443" class="menu-item menu-item-type-taxonomy menu-item-object-download_category menu-item-443"><a href="https://bytesed.com/our-products/category/html-template/">HTML Template</a></li>
+	<li id="menu-item-442" class="menu-item menu-item-type-taxonomy menu-item-object-download_category menu-item-442"><a href="https://bytesed.com/our-products/category/psd-template/">PSD Template</a></li>
+</ul>
+</li>
+<li id="menu-item-440" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-440"><a href="https://bytesed.com/docs/">Documentation</a>
+<ul class="sub-menu">
+	<li id="menu-item-441" class="menu-item menu-item-type-taxonomy menu-item-object-doc_category menu-item-441"><a href="https://bytesed.com/docs-category/harnold/">HARNOLD CMS</a></li>
+	<li id="menu-item-541" class="menu-item menu-item-type-taxonomy menu-item-object-doc_category menu-item-541"><a href="https://bytesed.com/docs-category/ogazi-personal-blog-cms/">Ogazi &#8211; Personal Blog PHP Laravel Scripts</a></li>
+	<li id="menu-item-598" class="menu-item menu-item-type-taxonomy menu-item-object-doc_category menu-item-598"><a href="https://bytesed.com/docs-category/zaika-ecommerce-shopping-laravel-platform/">Zaika &#8211; Ecommerce Shopping Laravel Platform</a></li>
+	<li id="menu-item-653" class="menu-item menu-item-type-taxonomy menu-item-object-doc_category menu-item-653"><a href="https://bytesed.com/docs-category/intoday-new-magazine-php-laravel-scripts/">InToday – New, Magazine PHP Laravel Scripts</a></li>
+</ul>
+</li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-19"><a href="https://bytesed.com/blog/">Blog</a></li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="https://bytesed.com/contact/">Contact</a></li>
+</ul></div>		</div>
+	</nav>
+</div>
+    </header><!-- #masthead -->
+				<div class="breadcrumb-area navbar-style-01">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12">
+							<div class="breadcrumb-inner">
+								<h2 class="page-title">Error 404</h2><ul class="page-list"><li><a href="https://bytesed.com/" rel="v:url">Home</a></li><li class="current">Error 404</li></ul>							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			    <div id="content" class="site-content">
+
+    <div id="primary" class="content-area error_page_content_area padding-top-110 padding-bottom-110">
+        <main id="main" class="site-main">
+            <div class="container">
+                <div class="row justify-content-center">
+                    <div class="col-lg-8">
+                        <div class="error-404 not-found">
+                            <h2 class="title">404</h2>
+                            <h4 class="subtitle">It looks like nothing was found at this location. Maybe try one of the links below or a search?</h4>
+                            <p class="paragraph">It looks like nothing was found at this location. Maybe try one of the links below or a search?</p>
+							<form action="https://bytesed.com/" class="search-form">
+	<div class="form-group">
+		<input type="text" name="s" class="form-control" placeholder="Search">
+	</div>
+	<button class="submit-btn" type="submit"><i class="fa fa-search"></i></button>
+</form>                            <div class="btn-wrapper desktop-center margin-top-30">
+                                <a class="boxed-btn" href="https://bytesed.com/">Back To Home</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </main><!-- #main -->
+    </div><!-- #primary -->
+
+    </div><!-- #content -->
+    
+<footer class="footer-area">
+    <div class="footer-top padding-top-100 padding-bottom-65">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-3 col-md-6"><div id="irtech_about_us-2" class="widget footer-widget widget_irtech_about_us">
+					<a href="https://bytesed.com/" class="footer-logo">
+				<img src="https://bytesed.com/wp-content/uploads/2021/09/1.png" alt>
+			</a>
+				<p>Founded At 2017. Architecting secure, efficient and user-friendly items by writing codes to turn ideas into reality.</p>
+		</div></div><div class="col-lg-3 col-md-6"><div id="irtech_edd_popular_product-2" class="widget footer-widget irtech-popular-product"><h4 class="widget-title">Popular Products</h4>			<ul class="popular_edd-product">
+								<li>
+					<div class="single-product-wrap">
+						<div class="thumb">
+							<img width="150" height="150" src="https://bytesed.com/wp-content/uploads/2021/09/00_preivew.__large_preview-1-150x150.jpg" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy">						</div>
+						<div class="content">
+							<a href="https://bytesed.com/our-products/harnold-political-wordpress-theme/"><h4 class="title">Harnold &#8211; Political WordPress Theme</h4></a>
+							<span class="sales">232 Sales</span>
+						</div>
+					</div>
+				</li>
+								<li>
+					<div class="single-product-wrap">
+						<div class="thumb">
+							<img width="150" height="150" src="https://bytesed.com/wp-content/uploads/2021/09/00_preview_image.__large_preview-3-150x150.png" class="attachment-thumbnail size-thumbnail wp-post-image" alt loading="lazy">						</div>
+						<div class="content">
+							<a href="https://bytesed.com/our-products/aapside-app-landing-wordpress-theme/"><h4 class="title">Aapside &#8211; App Landing WordPress Theme</h4></a>
+							<span class="sales">543 Sales</span>
+						</div>
+					</div>
+				</li>
+							</ul>
+			</div></div><div class="col-lg-3 col-md-6"><div id="nav_menu-2" class="widget footer-widget widget_nav_menu"><h4 class="widget-title">Support &#038; Tools</h4><div class="menu-support-tools-container"><ul id="menu-support-tools" class="menu"><li id="menu-item-400" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-400"><a href="https://xgenious51.freshdesk.com/">Support Forum</a></li>
+<li id="menu-item-398" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-398"><a href="https://xgenious.com/placeholder/">Placeholder Maker</a></li>
+<li id="menu-item-399" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-399"><a href="https://xgenious51.freshdesk.com/support/tickets/new">Create Support Ticket</a></li>
+</ul></div></div></div><div class="col-lg-3 col-md-6"><div id="nav_menu-3" class="widget footer-widget widget_nav_menu"><h4 class="widget-title">Useful Link</h4><div class="menu-useful-link-container"><ul id="menu-useful-link" class="menu"><li id="menu-item-526" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-526"><a href="https://bytesed.com/about/">About</a></li>
+<li id="menu-item-525" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-525"><a href="https://bytesed.com/contact/">Contact</a></li>
+<li id="menu-item-453" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-453"><a href="https://bytesed.com/returns-and-refunds-policy/">Returns and Refunds Policy</a></li>
+<li id="menu-item-454" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-454"><a href="https://bytesed.com/terms-and-conditions/">Terms and Conditions</a></li>
+</ul></div></div></div>		</div>
+	</div>
+</div>    <div class="copyright-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="copyright-inner">
+	                    &copy; 2021 All Right Reserved By Bytesed                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+</div><!-- #page -->
+
+<script type="text/javascript" defer src="../js/regenerator-runtime.min.js" id="regenerator-runtime-js"></script>
+<script type="text/javascript" defer src="../js/wp-polyfill.min.js" id="wp-polyfill-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/bytesed.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="../js/index.js" id="contact-form-7-js"></script>
+<script type="text/javascript" id="edd-ajax-js-extra">
+/* <![CDATA[ */
+var edd_scripts = {"ajaxurl":"https:\/\/bytesed.com\/wp-admin\/admin-ajax.php","position_in_cart":"-1","has_purchase_links":"","already_in_cart_message":"You have already added this item to your cart","empty_cart_message":"Your cart is empty","loading":"Loading","select_option":"Please select an option","is_checkout":"0","default_gateway":"","redirect_to_checkout":"0","checkout_page":"https:\/\/bytesed.com\/checkout\/","permalinks":"1","quantities_enabled":"","taxes_enabled":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="../js/edd-ajax.min.js" id="edd-ajax-js"></script>
+<script type="text/javascript" defer src="../js/waypoints.min_1.js" id="waypoints-js"></script>
+<script type="text/javascript" defer src="../js/jquery.counterup.min_1.js" id="counterup-js"></script>
+<script type="text/javascript" defer src="../js/owl.carousel.min_1.js" id="owl-carousel-js"></script>
+<script type="text/javascript" id="irtech-master-main-script-js-extra">
+/* <![CDATA[ */
+var xgObj = {"ajaxUrl":"https:\/\/bytesed.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="../js/main_1.js" id="irtech-master-main-script-js"></script>
+<script type="text/javascript" defer src="../js/compress-all_1.js" id="irtech-comporess-all-script-js"></script>
+<script type="text/javascript" defer src="../js/api.js" id="google-recaptcha-js"></script>
+<script type="text/javascript" id="wpcf7-recaptcha-js-extra">
+/* <![CDATA[ */
+var wpcf7_recaptcha = {"sitekey":"6LeTA04cAAAAAJoCzwvwLFI1GvIMQ819BcwJCLi3","actions":{"homepage":"homepage","contactform":"contactform"}};
+/* ]]> */
+</script>
+<script type="text/javascript" defer src="../js/index_1.js" id="wpcf7-recaptcha-js"></script>
+<script type="text/javascript" defer src="../js/wp-embed.min.js" id="wp-embed-js"></script>
+
+</body>
+</html>

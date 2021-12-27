@@ -1,0 +1,416 @@
+/*
+all wedocs widget custom css will be there
+@sicne 1.0.6
+*/
+.wedocs-single-wrap {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 120px 15px;
+}
+
+.wedocs-doc-nav,
+.wedocs-single-wrap .wedocs-single-content ol.wedocs-breadcrumb,
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list > li > a:before{
+    display: none;
+}
+.wedocs-single-content .entry-title {
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-bottom: 20px;
+}
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li > a {
+    padding: 0;
+    text-transform: capitalize;
+    font-size: 16px;
+    line-height: 26px;
+    transition: all 300ms;
+}
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li.current_page_item {
+    opacity: 1;
+}
+
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li.current_page_item > a ,
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li.current_page_parent > a {
+    background-color: transparent;
+    color: var(--heading-color);
+    position:relative;
+    padding-left: 15px;
+}
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li.current_page_item > a:after,
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li.current_page_parent > a:after{
+    position: absolute;
+    left: 0;
+    top:0;
+    width: 6px;
+    height: 100%;
+    background-color: var(--main-color-two);
+    content: '';
+    border-radius: 10px;
+}
+
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li ul.children {
+    border-left: none;
+}
+
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li ul.children li a {
+    position: relative;
+    color: var(--heading-color);
+    font-weight: 500;
+    opacity: .5;
+}
+
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li ul.children li a:before {
+    position: static;
+    content: "\f15c";
+    padding-right: 8px;
+    font-family: "fontawesome";
+}
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li+li {
+    margin-top: 15px;
+}
+
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list > li {
+    font-weight: 500;
+    color: var(--heading-color);
+    opacity: .6;
+}
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li.wd-state-open > a > .wedocs-caret, .wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li.wd-state-closed > a > .wedocs-caret {
+    padding: 0;
+    border: none;
+}
+
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li.wd-state-open > a > .wedocs-caret:hover, .wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li.wd-state-closed > a > .wedocs-caret:hover {
+    border: none;
+    color: inherit;
+}
+
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list > li.current_page_ancestor li.current_page_item > a {
+    background-color: var(--main-color-two);
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: #fff;
+    font-weight: normal;
+    border-left: 0;
+    opacity: 1;
+}
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list > li.current_page_ancestor ul.children{
+    border:none
+}
+.wedocs-single-wrap .wedocs-sidebar h3.widget-title {
+    border: none;
+    position: relative;
+}
+
+.wedocs-single-wrap .wedocs-sidebar h3.widget-title:after,
+.wedocs-single-wrap .wedocs-sidebar h3.widget-title:before {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    background-color: var(--main-color-two);
+    content: '';
+    width: 100px;
+    height: 1px;
+}
+.wedocs-single-wrap .wedocs-sidebar h3.widget-title:before{
+    width: 100%;
+    background-color: rgba(0,0,0,0.08);
+}
+.wedocs-single-wrap .wedocs-single-content {
+    border: none;
+}
+
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li > a:hover {
+    color: var(--main-color-two);
+}
+
+.wedocs-single-wrap .wedocs-sidebar ul.doc-nav-list li > a:hover {
+    color: var(--main-color-two);
+}
+
+.article-child.well ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.article-child.well h3 {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight: 500;
+}
+.article-child.well ul li a{
+    text-transform: capitalize;
+    transition: all 300ms;
+}
+.article-child.well ul li a:before {
+    position: static;
+    left: 0;
+    content: "\f07b";
+    font-family: "fontawesome";
+    padding-right: 10px;
+    color: #5b7794;
+    opacity: .6;
+}
+
+.article-child.well ul li ul {
+    margin-left: 15px;
+}
+.article-child.well ul li ul li a:before {
+    position: static;
+    left: 0;
+    content: "\f15c";
+    font-family: "fontawesome";
+    padding-right: 10px;
+}
+
+.wedocs-single-wrap .wedocs-single-content article footer.entry-footer.wedocs-entry-footer .wedocs-help-link a {
+    color: #5fa25f;
+}
+
+.article-child.well ul li a:hover ,
+.article-child.well ul li a:hover:before{
+    color: var(--main-color-two);
+}
+
+/* elementor widget style*/
+
+.single-doc-item {
+    background-color: #fff;
+    box-shadow: 0 0 40px rgba(0,0,0,0.08);
+    border-radius: 5px;
+    padding: 30px;
+    margin-bottom: 30px;
+}
+
+.single-doc-item .title {
+    font-size: 26px;
+    line-height: 30px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.single-doc-item.style-1 .title:before {
+    background-color: #7F65DC;
+    color: #7F65DC;
+}
+.single-doc-item.style-2 .title:before {
+    background-color: #00B4D8;
+    color: #00B4D8;
+}
+.single-doc-item.style-3 .title:before {
+    background-color: #FCBF49;
+    color: #FCBF49;
+}
+.single-doc-item.style-4 .title:before {
+    background-color: #EE4266;
+    color: #EE4266;
+}
+.single-doc-item.style-5 .title:before {
+    background-color: #007F5F;
+    color: #007F5F;
+}
+.single-doc-item.style-6 .title:before {
+    background-color: #007AFF;
+    color: #007AFF;
+}
+.single-doc-item .title:before {
+    position: static;
+    content: '|';
+    width: 7px;
+    height: 100%;
+    background-color: #2f7dd0;
+    display: inline-block;
+    border-radius: 10px;
+    margin-right: 15px;
+    color: #2f7dd0;
+}
+.single-doc-item .doc-section-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-bottom: 30px;
+}
+
+.single-doc-item .doc-section-list li a:hover {
+    color: var(--main-color-two);
+}
+.single-doc-item .doc-section-list li a {
+    transition: all 300ms;
+}
+.single-doc-item .doc-section-list li a:before {
+    position: static;
+    content: "\f15c";
+    font-family: "fontawesome";
+    padding-right: 10px;
+    opacity: .6;
+}
+.single-doc-item .btn-wrapper a {
+    display: inline-block;
+    border: 1px solid #e2e2e2;
+    padding: 5px 15px;
+    border-radius: 3px;
+    transition: all 300ms;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.single-doc-item .btn-wrapper a:hover {
+    background-color: var(--main-color-two);
+    color: #fff;
+    border-color:var(--main-color-two);
+}
+.single-doc-item .doc-section-list li,
+.single-doc-item .title{
+    text-transform: capitalize;
+}
+.weDocs-search-form-wrapper .title {
+    font-size: 36px;
+    text-align: center;
+    margin-bottom: 40px;
+    line-height: 46px;
+}
+
+.weDocsSearchForm {
+    position: relative;
+}
+
+.weDocsSearchForm .form-group .form-control {
+    width: 100%;
+    border: 1px solid #e2e2e2;
+    height: 60px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.weDocsSearchForm .submit-btn {
+    position: absolute;
+    right: 0;
+    top: 0;
+    border: none;
+    line-height: 60px;
+    width: 60px;
+    height: 60px;
+    background-color: var(--main-color-two);
+    color: #fff;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    padding: 0;
+}
+
+.weDocs-search-form-wrapper {
+    position: relative;
+    z-index: 99;
+}
+
+.weDocs-search-form-wrapper .ajax-search-wrap.show {
+    visibility: visible;
+    opacity: 1;
+    height: auto;
+}
+.weDocs-search-form-wrapper .ajax-search-wrap {
+    position: absolute;
+    background-color: #fff;
+    box-shadow: 0 0 65px 0 rgb(0 0 0 / 7%);
+    display: block;
+    width: 100%;
+    top: 65px;
+    padding: 20px;
+    z-index: 9999;
+    font-size: 14px;
+    border-radius: 5px;
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    transition: all 300ms;
+}
+
+.weDocs-search-form-wrapper .ajax-search-wrap:after {
+    position: absolute;
+    left: 5px;
+    top: -8px;
+    width: 25px;
+    height: 25px;
+    background-color: #fff;
+    content: '';
+    transform: rotate(45deg);
+    z-index: -1;
+}
+.weDocs-form-backdrop.show {
+    visibility: visible;
+    opacity: 1;
+}
+.weDocs-form-backdrop {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    left: 0;
+    top: 0;
+    z-index: 9;
+    visibility: hidden;
+    opacity: 0;
+    transition: all 300ms;
+}
+.weDocsSearchForm .close {
+    position: absolute;
+    right: 70px;
+    top: 50%;
+    visibility: hidden;
+    opacity: 0;
+    transition: 300ms all;
+    transform: translateY(-50%);
+    font-size: 14px;
+}
+
+.weDocsSearchForm .close.show {
+    visibility: visible;
+    opacity: 1;
+}
+.wedoc-single-search-item + .wedoc-single-search-item {
+    margin-top: 20px;
+}
+
+.wedoc-single-search-item .title {
+    font-size: 16px !important;
+    line-height: 26px;
+    text-align: left;
+    margin-bottom: 0;
+    font-weight: 600;
+    text-transform: capitalize
+}
+
+.wedoc-single-search-item {
+    text-align: left;
+    background-color: #f2f2f2;
+    padding: 15px;
+}
+
+
+.wedoc-single-search-item .excerpt {
+    font-size: 14px;
+    line-height: 20px;
+}
+
+.wedoc-single-search-item .wedoc-seclist {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    margin-top: 20px;
+}
+.wedoc-single-search-item .wedoc-seclist li a{
+    color: var(--heading-color);
+    opacity: .7;
+    transition: all 300ms;
+    text-transform: capitalize;
+}
+.wedoc-single-search-item .wedoc-seclist li a:hover{
+    color: var(--main-color-two);
+}
+.wedoc-single-search-item .wedoc-seclist li:before {
+    position: static;
+    content: "\f15c";
+    font-family: "fontawesome";
+    padding-right: 10px;
+    color: var(--main-color-two);
+}

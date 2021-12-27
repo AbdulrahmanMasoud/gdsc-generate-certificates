@@ -1,0 +1,372 @@
+
+/* Medium Layout: 1200px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px){
+    .header-area .header-inner .title {
+        font-size: 50px;
+        line-height: 60px;
+    }
+    .blog-classic-item-01 .content .title {
+        font-size: 32px;
+        line-height: 40px;
+    }
+}
+
+/* Tablet Layout: 768px. */
+
+@media only screen and (max-width: 991px){
+    .navbar-area .nav-container .responsive-mobile-menu {
+        display: inline-block;
+        position: relative;
+        width: auto;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-toggler:focus{
+        outline: none;
+        box-shadow: none;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-toggler {
+        position: absolute;
+        right: 30px;
+        top: 50%;
+        transform: translateY(-50%);
+        border: 1px solid #e2e2e2;
+    }
+    .nav-right-content-area {
+        margin-left: 0px;
+        display: inline-block;
+        float: right;
+        margin-right: 75px;
+    }
+    .navbar-area.nav-style-02 .navbar-collapse {
+        position: absolute;
+        right: 0;
+        top: 100%;
+        background-color: #fff;
+        min-width: 100%;
+    }
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.current-menu-item:after {
+        display: none;
+    }
+
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li {
+        line-height: 26px;
+        padding: 6px 25px;
+    }
+    .navbar-area .nav-container .navbar-collapse .navbar-nav {
+        margin-top: 0;
+    }
+    .header-area .header-inner .title .subtitle {
+        font-size: 40px;
+    }
+    .header-area .header-inner .title {
+        font-size: 45px;
+        line-height: 55px;
+        margin-bottom: 35px;
+    }
+    .blog-classic-item-01 .content .title {
+        font-size: 30px;
+        line-height: 36px;
+    }
+    .breadcrumb-area .page-title {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    .widget-area {
+        margin-top: 60px;
+    }
+    .single-download .breadcrumb-area .breadcrumb-inner .page-title {
+        font-size: 26px;
+        line-height: 30px;
+        margin-top: 20px;
+    }
+    .download-widget-area {
+         margin-top: 0px;
+    }
+    .content-area.download-single-page {
+        margin-bottom: 100px;
+    }
+    
+    .navbar-area.nav-style-02 .nav-container .navbar-collapse .navbar-nav li.current-menu-item {
+        background-color: var(--main-color-one);
+    }
+}
+
+/* Tablet Layout wide: 768px. */
+
+@media only screen and (max-width: 767px){
+    body.post-type-archive-download .breadcrumb-area .breadcrumb-inner {
+        display: block;
+    }
+
+    body.post-type-archive-download .breadcrumb-area .breadcrumb-inner .right-content-area {
+        margin-top: 30px;
+    }
+
+    body.post-type-archive-download .breadcrumb-area .breadcrumb-inner .right-content-area .product-search-form {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+    }
+    .irtech-download-grid .content .title {
+        font-size: 22px;
+        line-height: 24px;
+        height: auto;
+    }
+    .irtech-download-grid .thumbnail img {
+        width: 100%;
+    }
+    .irtech-download-grid.no-margin-bottom{
+        margin-bottom: 30px;
+    }
+    .latest-product-list-wrap li:nth-child(5n+1) {
+        margin-left: 0;
+    }
+    .latest-product-list-wrap li {
+        width: calc(100% / 5 - 26px);
+    }
+    .latest-product-list-wrap li:nth-child(7n+1) {
+        margin-left: 30px;
+    }
+    .user-registration.ur-frontend-form {
+        max-width: 100%;
+        margin: 0 auto;
+    }
+    .header-area .header-inner .title .subtitle {
+        display: inline;
+        font-size: 45px;
+        line-height: 55px;
+    }
+    .button-wrapper.text-right {
+        text-align: left !important;
+    }
+    .single-product-wrap .content .title {
+        font-size: 20px;
+        line-height: 30px;
+        font-weight: 600;
+        margin-bottom: 0;
+    }
+}
+
+
+
+
+/* medium tablet layout 599px */
+
+@media only screen and (max-width: 599px){
+
+}
+
+@media only screen and (max-width: 450px){
+    /*.header-area .header-inner .title .subtitle {*/
+    /*    font-size: 38px;*/
+    /*    line-height: 46px;*/
+    /*}*/
+    .header-area .header-inner .title, 
+    .header-area .header-inner .title .subtitle {
+        font-size: 38px;
+        line-height: 46px;
+        margin-bottom: 35px;
+    }
+    .irtech-download-grid .thumbnail img {
+        width: 100%;
+    }
+
+    .topbar-inner {
+        display: block;
+        text-align: center;
+    }
+
+    .topbar-inner .right-content {
+        margin-top: 20px;
+    }
+    .navbar-area.nav-style-02 {
+        top: auto;
+    }
+    .nav-right-content-area,
+    .header-carousel-wrapper .bottom-image-wrap{
+        display: none;
+    }
+    .irtech-download-grid .content .title {
+        height: auto;
+    }
+    .single-download-item .thumbnail .bottom-content {
+        display: block;
+        text-align: center;
+    }
+
+    .single-download-item .thumbnail .bottom-content .social-share {
+        margin-top: 10px;
+    }
+}
+
+/* mobile tablet layout 414px */
+
+@media only screen and (max-width: 414px){
+    .latest-product-list-wrap li:nth-child(3n+1) {
+        margin-left: 0;
+    }
+    .latest-product-list-wrap li {
+        width: calc(100% / 3 - 20px);
+    }
+    .latest-product-list-wrap li:nth-child(7n+1) {
+        margin-left: 30px;
+    }
+    .latest-product-list-wrap li:nth-child(5n+1) {
+        margin-left: 30px;
+    }
+    .latest-product-list-wrap li:first-child {
+        margin-left: 0;
+    }
+    .latest-product-list-wrap li:nth-child(16) {
+        margin-left: 0;
+    }
+    .testimonial-carousel .owl-controls .owl-dots div + div {
+        margin-left: 5px;
+    }
+    .single-counterup-01 .count-wrap {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 6px;
+    }
+    .user-registration input[type="text"],
+    .user-registration input[type="password"] {
+        display: block;
+        width: 100%;
+    }
+
+    .download-single-page .nav-tabs .nav-item .nav-link {
+        font-size: 12px;
+    }
+    .download-single-page .nav-tabs .nav-item .nav-link {
+        padding: 5px 15px;
+    }
+    .download-single-page .nav-tabs {
+        margin-top: -38px;
+    }
+    .post-navigation-inner div {
+        width: 100%;
+    }
+
+    .post-navigation-inner {
+        display: block;
+    }
+
+    .post-navigation-inner:after {
+        width: 100%;
+        height: 1px;
+    }
+
+    .post-navigation-inner div:last-child {
+        text-align: left;
+    }
+    .single-testimonial-item .content .description {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    
+    .single-image-box-01 .content .title {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    
+}
+
+
+/* mobile tablet layout 375px */
+
+@media only screen and (max-width: 384px) {
+    .navbar-area.nav-style-02 {
+        top: auto;
+    }
+    .breadcrumb-area .page-title {
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .comments-area .reply-title, .comments-area .comment-reply-title {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .single-download-item .thumbnail {
+        padding: 10px;
+    }
+    .header-area .header-inner .btn-wrapper .boxed-btn {
+        padding: 10px 20px;
+        min-width: 140px;
+    }
+    .header-area .header-inner .btn-wrapper .boxed-btn + .boxed-btn {
+        margin-left: 10px;
+    }
+    /*.header-area .header-inner .title .subtitle {*/
+    /*    font-size: 28px;*/
+    /*    line-height: 35px;*/
+    /*    font-weight: 600;*/
+    /*}*/
+    .blog-details-item .post-meta li:last-child {
+        margin-left: 0;
+    }
+    .header-area .header-inner .btn-wrapper .boxed-btn {
+        margin-bottom: 20px;
+        margin-left: 0 !important;
+    }
+    .header-area .header-inner .title, .header-area .header-inner .title .subtitle {
+        font-size: 28px;
+        line-height: 46px;
+        margin-bottom: 35px;
+    }
+    .irtech-download-grid .content .title {
+        font-size: 20px;
+        line-height: 30px;
+        height: auto;
+    }
+}
+
+
+/* mobile tablet layout 360px */
+
+@media only screen and (max-width: 360px) {
+
+    .download-archive-top-content form {
+        display: block;
+    }
+
+    .download-archive-top-content form select {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
+
+
+/* mobile tablet layout 320px */
+
+@media only screen and (max-width: 330px){
+    .header-area .header-inner .btn-wrapper .boxed-btn.blank{
+        margin-top: 10px;
+    }
+    .header-area .header-inner .btn-wrapper .boxed-btn {
+        padding: 10px 20px;
+        min-width: 130px;
+    }
+    .single-counterup-01 .count-wrap {
+        font-size: 40px;
+        line-height: 50px;
+        margin-bottom: 10px;
+    }
+    .single-image-box-01 {
+        padding: 40px 30px 40px 30px;
+    }
+    .blog-classic-item-01 .content .title {
+        font-size: 26px;
+        line-height: 32px;
+    }
+    .irtech-download-grid .content .title {
+        font-size: 20px;
+        line-height: 24px;
+        height: auto;
+        margin-bottom: 20px;
+    }
+    .logo-wrapper .site-title {
+        font-size: 24px;
+    }
+
+}
