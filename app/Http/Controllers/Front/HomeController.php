@@ -16,7 +16,7 @@ class HomeController extends Controller
     public function index()
     {
         $tracks = Track::get();
-        return view('frontend.layouts',['tracks',$tracks]);
+        return view('frontend.home.index',['tracks',$tracks]);
     }
 
     /**
