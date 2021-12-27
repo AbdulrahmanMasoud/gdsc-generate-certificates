@@ -6,15 +6,14 @@
 
 <div class="alert">
     <div class="closebtn">
-      <form action="#" method="POST">
+      <form action="{{route('students.import',$course->id)}}" method="POST" enctype="multipart/form-data">
           @csrf
-          <input type="hidden" name="course_id" value="{{$course->id}}">
         <div class="row">
           <div class="col-25">
             <label for="courseName">Course CSV</label>
           </div>
           <div class="col-75">
-            <input type="file" id="courseCsv" name="course_csv">
+            <input type="file" id="courseCsv" name="students_file">
           </div>
         </div>
   

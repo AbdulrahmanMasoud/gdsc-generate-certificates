@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Dashboard\CoursesController;
+use App\Http\Controllers\Dashboard\ImportStudentsController;
 use App\Http\Controllers\Dashboard\StudentsController;
 use App\Http\Controllers\Dashboard\TracksController;
 use Illuminate\Support\Facades\Route;
@@ -24,5 +25,7 @@ Route::prefix('dashboard')->group(function () {
     Route::resource('tracks',TracksController::class);
     Route::resource('courses',CoursesController::class);
     Route::resource('students',StudentsController::class);
+
+    Route::post('import/{id}',[ImportStudentsController::class,'import'])->name('students.import');
 
 });
