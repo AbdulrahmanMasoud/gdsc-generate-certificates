@@ -4,7 +4,7 @@
         <div class="container nav-container political-02">
             <div class="responsive-mobile-menu">
                 <div class="logo-wrapper">
-                    <a href="index_1.html" class="logo">
+                    <a href="{{route('home')}}" class="logo">
                         <img src="{{asset('front/logo2.png')}}" class="w-75" alt>
                     </a>
                 </div>

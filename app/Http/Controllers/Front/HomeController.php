@@ -15,8 +15,9 @@ class HomeController extends Controller
      */
     public function index()
     {
-        $tracks = Track::get();
-        return view('frontend.home.index',['tracks',$tracks]);
+        $tracks = Track::with('courses')->get();
+        // dd($tracks);
+        return view('frontend.home.index',compact('tracks'));
     }
 
     /**
@@ -48,7 +49,9 @@ class HomeController extends Controller
      */
     public function show($id)
     {
-        //
+        $track = Track::where('id',$id)->with('courses')->first();
+       
+        return view('frontend.tracks.show',['track'=>$track]);
     }
 
     /**

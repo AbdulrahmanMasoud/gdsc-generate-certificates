@@ -20,7 +20,8 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', [HomeController::class,'index'])->name('home');
-Route::get('/cer', [GenerateCertificatesControllers::class,'generate'])->name('generate.Certificat');
+Route::get('track/{id}', [HomeController::class,'show'])->name('track.show');
+Route::post('/get-certificat', [GenerateCertificatesControllers::class,'generate'])->name('generate.certificat');
 Route::prefix('dashboard')->group(function () {
     
     Route::resource('tracks',TracksController::class);

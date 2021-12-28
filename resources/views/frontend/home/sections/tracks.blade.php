@@ -10,18 +10,19 @@
         </div>
         <div class="row">
             @foreach ($tracks as $track)
-                
-            
-            <div class="col-lg-3 col-md-6">
-                <div class="single-package-item water-effect bg-image" style="background-image: url({{asset('front/images/01.jpg')}});">
-                    <div class="content">
-                        <div class="btn-wrapper">
-                            <a href="#" class="boxed-btn">$250</a>
+               
+           
+                <div class="col-lg-3 col-md-6">
+                    <div class="single-package-item water-effect bg-image" style="background-image: url({{asset('front/images/01.jpg')}});">
+                        <div class="content">
+                            <div class="btn-wrapper">
+                                <a href="#" class="boxed-btn">Courses {{$track->courses->count()}}</a>
+                            </div>
+                            <h4 class="title"><a href="{{route('track.show',$track->id)}}">{{$track->name}}</a></h4>
                         </div>
-                        <h4 class="title"><a href="#">{{$track->name}}</a></h4>
                     </div>
                 </div>
-            </div>
+           
             @endforeach
 
 

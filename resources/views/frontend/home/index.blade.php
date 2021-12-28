@@ -2,7 +2,6 @@
 
 
 @section('content')
-
     @include('frontend.home.sections.nav')
     @include('frontend.home.sections.hero')
     @include('frontend.home.sections.tracks')
