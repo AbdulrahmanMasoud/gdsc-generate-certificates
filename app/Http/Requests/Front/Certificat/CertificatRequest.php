@@ -1,11 +1,10 @@
 <?php
 
-namespace App\Http\Requests\Dashboard\Auth;
+namespace App\Http\Requests\Front\Certificat;
 
 use Illuminate\Foundation\Http\FormRequest;
-use Illuminate\Validation\Rule;
 
-class LoginRequest extends FormRequest
+class CertificatRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
@@ -24,12 +23,9 @@ class LoginRequest extends FormRequest
      */
     public function rules()
     {
-        
         return [
-            'email' => ['required',Rule::exists('users')->where(function ($query) {
-                        return $query->where('role', 1);
-            })],
-            'password' => 'required',
+            'course_id' => 'required',
+            'email'     => 'required|email'
         ];
     }
 }

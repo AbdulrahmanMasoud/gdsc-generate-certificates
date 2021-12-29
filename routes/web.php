@@ -22,7 +22,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [HomeController::class,'index'])->name('home');
 Route::get('track/{id}', [HomeController::class,'show'])->name('track.show');
-Route::post('/get-certificat', [GenerateCertificatesControllers::class,'generate'])->name('generate.certificat');
+Route::post('get-certificat', [GenerateCertificatesControllers::class,'generate'])->name('generate.certificat');
 Route::get('dashboard/login', [AuthController::class,'index'])->name('login');
 Route::post('dashboard/check-login', [AuthController::class,'login'])->name('login');
 Route::group(['middleware' => 'auth', 'prefix' => 'dashboard'],function () {
