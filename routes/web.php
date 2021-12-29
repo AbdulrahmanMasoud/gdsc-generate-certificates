@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\Dashboard\Auth\AuthController;
 use App\Http\Controllers\Dashboard\CoursesController;
 use App\Http\Controllers\Dashboard\ImportStudentsController;
 use App\Http\Controllers\Dashboard\StudentsController;
@@ -22,8 +23,10 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', [HomeController::class,'index'])->name('home');
 Route::get('track/{id}', [HomeController::class,'show'])->name('track.show');
 Route::post('/get-certificat', [GenerateCertificatesControllers::class,'generate'])->name('generate.certificat');
-Route::prefix('dashboard')->group(function () {
-    
+Route::get('dashboard/login', [AuthController::class,'index'])->name('login');
+Route::post('dashboard/check-login', [AuthController::class,'login'])->name('login');
+Route::group(['middleware' => 'auth', 'prefix' => 'dashboard'],function () {
+    Route::post('logout', [AuthController::class,'logout'])->name('logout');
     Route::resource('tracks',TracksController::class);
     Route::resource('courses',CoursesController::class);
     Route::resource('students',StudentsController::class);
