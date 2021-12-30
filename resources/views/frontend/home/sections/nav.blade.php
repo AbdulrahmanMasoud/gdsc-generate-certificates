@@ -3,7 +3,7 @@
     <nav class="navbar navbar-area navbar-expand-lg nav-style-02">
         <div class="container nav-container political-02">
             <div class="responsive-mobile-menu">
-                <div class="logo-wrapper">
+                <div class="logo-wrapper mt-2">
                     <a href="{{route('home')}}" class="logo">
                         <img src="{{asset('front/logo2.png')}}" class="w-75" alt>
                     </a>

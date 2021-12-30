@@ -12,12 +12,12 @@
     <div class="bg-img-11" style="background-image:url({{asset('front/images/cercle.png')}});"></div>
     <div class="container">
         <div class="row">
-            <div class="col-lg-5">
+            <div class="col-lg-8">
                 <div class="header-inner">
                     <!-- header inner -->
-                    <h1 class="title">Lets pack for your next adventure</h1>
+                    <h1 class="title">It's done Now &#127941;<br> Get a Certificate and Have Fun &#127882;</h1>
                     <div class="btn-wrapper  desktop-left padding-top-30">
-                        <a href="#" class="boxed-btn">Send App to Your Phone</a>
+                        {{-- <a href="#" class="boxed-btn">Get a Certificate and Have Fun</a> --}}
                     </div>
                 </div>
                 <!-- //.header inner -->

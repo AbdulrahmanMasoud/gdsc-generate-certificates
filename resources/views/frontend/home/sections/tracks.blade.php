@@ -3,18 +3,19 @@
         <div class="row justify-content-center">
             <div class="col-lg-4">
                 <div class="section-title desktop-center margin-bottom-60">
-                    <span class="sub-title">Top Packages</span>
-                    <h3 class="title">Explore <span>unique places</span> & get <span>amazing</span> experience </h3>
+                    <span class="sub-title">Tracks</span>
+                    <h3 class="title">Explore all<span>Tracks</span> & get your <span>Certificate</span></h3>
                 </div>
             </div>
         </div>
         <div class="row">
-            @foreach ($tracks as $track)
+            @foreach ($tracks as $key => $track)
                
            
                 <div class="col-lg-3 col-md-6">
-                    <div class="single-package-item water-effect bg-image" style="background-image: url({{asset('front/images/01.jpg')}});">
+                    <div class="single-package-item water-effect bg-image" style="background-image: url({{asset('front/images/ima/0'.intval($key).'.jpg')}});">
                         <div class="content">
+                            
                             <div class="btn-wrapper">
                                 <a href="#" class="boxed-btn">Courses {{$track->courses->count()}}</a>
                             </div>

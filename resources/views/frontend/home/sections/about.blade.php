@@ -7,8 +7,8 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="section-title padding-bottom-25">
-                    <span class="sub-title">Why Choose Us</span>
-                    <h4 class="title">We are <span>best travel agency</span> with <span>100% satisfaction</span> services </h4>
+                    <span class="sub-title">GDSC Al-Azhar</span>
+                    <h4 class="">We are <b>GOOGLE DEVELOPER STUDENT CLUB</b> <br> Al Azhar University branch <br> powered by <b>Google</b> </h4>
                 </div>
             </div>
             <div class="col-lg-6 offset-lg-1">
@@ -20,9 +20,9 @@
                             </div>
                             <div class="content">
                                 <h4 class="title">
-                                    <a href>Book Hotels</a>
+                                    <a href>Technology</a>
                                 </h4>
-                                <p>Inspiration comes in many ways and you like to save everything from. </p>
+                                <p>To connect technology with business management to implement solutions in our society. </p>
                             </div>
                         </div>
                     </div>
@@ -33,9 +33,9 @@
                             </div>
                             <div class="content">
                                 <h4 class="title">
-                                    <a href>Book Flights</a>
+                                    <a href>Our Goal</a>
                                 </h4>
-                                <p>Inspiration comes in many ways and you like to save everything from. </p>
+                                <p>To erase technological illiteracy in our society to keep up with the modern age and its development. </p>
                             </div>
                         </div>
                     </div>
@@ -46,9 +46,9 @@
                             </div>
                             <div class="content">
                                 <h4 class="title">
-                                    <a href>Save Money</a>
+                                    <a href>Help students</a>
                                 </h4>
-                                <p>Inspiration comes in many ways and you like to save everything from. </p>
+                                <p>To help students to choose their fields easily from beginner level to advanced level. </p>
                             </div>
                         </div>
                     </div>
@@ -59,9 +59,9 @@
                             </div>
                             <div class="content">
                                 <h4 class="title">
-                                    <a href>Get Notified</a>
+                                    <a href>Practical part</a>
                                 </h4>
-                                <p>Inspiration comes in many ways and you like to save everything from. </p>
+                                <p>Fill the gap between hard studies and soft studies with practical part. </p>
                             </div>
                         </div>
                     </div>
@@ -73,7 +73,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 col-md-12">
-                    <div class="call-to-action-inner">
+                    <div class="call-to-action-inner pb-0 mb-4">
                         <div class="line-area">
                             <span class="line-one"></span>
                             <span class="line-two"></span>
@@ -82,11 +82,17 @@
                         <span class="bubble"></span>
                         <div class="action-bg-img" style="background-image: url({{asset('front/images/dot.png')}});"></div>
                         <div class="action-bg-img-02" style="background-image: url({{asset('front/images/cricle.png')}});"></div>
-                        <h2 class="title">Sign up to join with us</h2>
-                        <p class="subtitle">Inspiration comes in many ways and you like to save everything from.</p>
-                        <div class="btn-wrapper desktop-center">
-                            <a href="#" class="boxed-btn">Send App to Your Phone</a>
+                        <h2 class="title">Like us on Facebook</h2>
+                        <div class="btn-wrapper desktop-center mb-3">
+                            <a href="https://www.facebook.com/Gdscalazhar" class="boxed-btn">GDSC Al-Azhar &#128077;</a>
                         </div>
+                        <p class="">&copy; GDSC Al-Azhar - Developer 
+                        <a href="https://www.facebook.com/AbdulrahmanMasoudOfficial/" 
+                        style="
+                            font-size: 14px;
+                            font-family: var(--heading-font);
+                            color: var(--secondary-color);"
+                            >Abdulrahman Masoud</a></p>
                     </div>
                 </div>
             </div>
