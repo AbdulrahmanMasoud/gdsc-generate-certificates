@@ -34,6 +34,7 @@
       @csrf
     <button type="submit">Logout</button>  
     </form>
+	<a href="{{route('tracks.create')}}">Add Track</a>
     @yield('content')
 </body>
 
