@@ -60,8 +60,35 @@
             </div>
         </div>
     </div>
+   
+
+
+<div class="call-to-action-area padding-top-160 bg-image ">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-sm-12">
+                <div class="call-to-action-inner pt-4 pb-2">
+                    <div class="line-area">
+                        <span class="line-one"></span>
+                        <span class="line-two"></span>
+                        <span class="line-three"></span>
+                    </div>
+                    <span class="bubble"></span>
+                    <div class="action-bg-img" style="background-image: url({{asset('front/images/dot.png')}});"></div>
+                    <div class="action-bg-img-02" style="background-image: url({{asset('front/images/cricle.png')}});"></div>
+                   
+                    <p class="">&copy; GDSC Al-Azhar - Developer 
+                    <a href="https://www.facebook.com/AbdulrahmanMasoudOfficial/" 
+                    style="
+                        font-size: 14px;
+                        font-family: var(--heading-font);
+                        color: var(--secondary-color);"
+                        >Abdulrahman Masoud</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
-
-
+</div>
 @endsection
 
