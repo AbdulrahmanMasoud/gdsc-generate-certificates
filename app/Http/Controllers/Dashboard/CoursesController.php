@@ -44,7 +44,7 @@ class CoursesController extends Controller
             'name' => $request->name,
             'track_id' => $request->track_id
         ]);
-        return redirect()->route('dashboard.courses');
+        return redirect()->route('courses.index');
     }
 
     /**
