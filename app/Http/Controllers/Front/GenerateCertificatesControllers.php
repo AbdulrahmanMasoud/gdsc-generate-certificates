@@ -45,7 +45,7 @@ class GenerateCertificatesControllers extends Controller
         //$studentName = $student->first()->name;
         //$today = date('Y-m-d');
 
-        return $this->generateCertificat($student->name,335,470,ucwords($courseName));
+        return $this->generateCertificat($student->name,360,470,ucwords($courseName));
     
         
     }
