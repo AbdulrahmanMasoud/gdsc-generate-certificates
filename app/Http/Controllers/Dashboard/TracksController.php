@@ -4,6 +4,8 @@ namespace App\Http\Controllers\Dashboard;
 
 use App\Http\Controllers\Controller;
 use App\Http\Requests\Dashboard\Track\TrackRequest;
+use App\Models\Course;
+use App\Models\Student;
 use App\Models\Track;
 use Illuminate\Http\Request;
 
@@ -42,6 +44,10 @@ class TracksController extends Controller
     {
         // dd($request);
         $track = Track::create($request->validated());
+        if($track){
+            return redirect()->route('tracks.index');
+        }
+        return 'ياسطا في حاجه غلط وانا مش فاضي اهندلها بعد اذنك اكتب البيانات صح';
     }
 
     /**
@@ -82,7 +88,7 @@ class TracksController extends Controller
     {
         $updateTrack = Track::where('id',$id)->update($request->validated());
         
-        return redirect('dashboard.tracks.index');
+        return redirect()->route('tracks.index');
     }
 
     /**
@@ -94,7 +100,10 @@ class TracksController extends Controller
     public function destroy($id)
     {
         $deleteTrack = Track::where('id',$id)->delete();
+        if($deleteTrack){
+            return redirect()->route('tracks.index');
+        }
         
-        return redirect('dashboard.tracks.index');
+        return 'احذف الكورسات اللي موجوده في التراك الاول';
     }
 }

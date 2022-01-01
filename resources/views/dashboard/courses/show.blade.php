@@ -25,7 +25,11 @@
     {{$course->name}}
   </div>
 
-
+  <form action="{{route('courses.destroy',$course->id)}}" method="post">
+    @csrf
+    @method('DELETE')
+    <button type="submit">Delete Course</button>
+  </form>
 <hr>
 <h2>Students</h2>
 <hr>
@@ -37,6 +41,12 @@
   <div class="alert" style="margin-left:100px">
    
    <a href="{{route('courses.show',$student->id)}}"> {{$student->name}}</a>
+
+   <form action="{{route('students.destroy',$student->id)}}" method="post">
+    @csrf
+    @method('DELETE')
+    <button type="submit">Delete Student</button>
+  </form>
   </div>
   @endforeach
 @endsection

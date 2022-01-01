@@ -44,7 +44,7 @@ class CoursesController extends Controller
             'name' => $request->name,
             'track_id' => $request->track_id
         ]);
-        return redirect('dashboard/courses');
+        return redirect()->route('dashboard.courses');
     }
 
     /**
@@ -91,6 +91,12 @@ class CoursesController extends Controller
      */
     public function destroy($id)
     {
-        //
+        $deleteCourse = Course::where('id',$id)->delete();
+        if($deleteCourse){
+            return redirect()->route('courses.index');
+        }
+        
+        return 'احذف الطلاب  اللي موجوده في الكورس الاول';
+
     }
 }

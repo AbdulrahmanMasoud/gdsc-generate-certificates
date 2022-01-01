@@ -5,6 +5,7 @@
 
     
 <div class="alert">
+  
     <a href="{{route('courses.create')}}" class="closebtn">
        Create Coures
     </a>

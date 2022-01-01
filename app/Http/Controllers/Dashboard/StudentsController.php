@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Dashboard;
 
 use App\Http\Controllers\Controller;
+use App\Models\Student;
 use Illuminate\Http\Request;
 
 class StudentsController extends Controller
@@ -80,6 +81,11 @@ class StudentsController extends Controller
      */
     public function destroy($id)
     {
-        //
+        $deleteStudent = Student::where('id',$id)->delete();
+        if(!$deleteStudent){
+            return 'لم يتم الحذف';
+        }
+        
+        return redirect()->back();
     }
 }

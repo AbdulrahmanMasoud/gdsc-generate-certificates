@@ -36,14 +36,15 @@ input[type=text], select, textarea {
 </style>  
 
 <div class="container">
-    <form action="{{route('tracks.update')}}" method="POST">
+    <form action="{{route('tracks.update',$track->id)}}" method="POST">
         @csrf
-      <div class="row">
+        @method('PUT')
+              <div class="row">
         <div class="col-25">
           <label for="trackName">Track Name</label>
         </div>
         <div class="col-75">
-          <input type="text" id="trackName" name="track_name" placeholder="Add Track Name" value="{{$track->name}}">
+          <input type="text" id="trackName" name="name" placeholder="Add Track Name" value="{{$track->name}}">
         </div>
       </div>
 
