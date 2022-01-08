@@ -38,7 +38,7 @@ class GenerateCertificatesControllers extends Controller
         // dd($student->name);
         
         if(!$student){
-            return back()->withErrors(['email' => 'ياسطا اتأكد ان ده ايميلك اللي مسجل بيه  في الكورس اللي اختارته ']);
+            return back()->withErrors(['email' => 'يرجى التأكد من ان بريدك الالكتروني هذا مسجل في هذه الدوره']);
         }
         //$trackName = $student->course()->first()->track()->first()->name;
         $courseName = $student->course()->first()->name;
